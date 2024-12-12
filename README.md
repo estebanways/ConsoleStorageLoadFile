@@ -1,2 +1,3 @@
-# CosoleStorageLoadFile
-🪐 Cosole Storage Load File - Azure Cloud
+# ConsoleStorageLoadFile
+
+🪐 Console Storage Load File - Azure Cloud
